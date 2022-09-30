@@ -1,6 +1,5 @@
 import random
 
-
 def generar_contrasena():
     mayusculas = ['A', 'B', 'C', 'D', 'E', 'F', 'G','H', 'I']
     minusculas = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i']
